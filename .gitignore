@@ -13,7 +13,10 @@
 .externalNativeBuild
 .cxx
 local.properties
+<<<<<<< HEAD
 
 # Project exclude paths
 /app/
 /gradle/
+=======
+>>>>>>> 35b3665 (Initial commit)
